@@ -15,6 +15,8 @@ You can edit the script to change the difficulty (number of turns the minmax alg
 
 #### Example:
 
+https://user-images.githubusercontent.com/42912323/117491337-5c059600-af70-11eb-9186-f999344f338d.mp4
+
 
 ### Multiplayer
 To play against another person, simply run the script `python multiplayer.py`.
